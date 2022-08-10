@@ -52,7 +52,7 @@ body {
 	color: #5c6476;
 	margin: 0;
  }
- .but1 {
+ .but1, .but2 {
 	border-radius: 40px;
 	background: #d9edfd;
 	border: 0;
